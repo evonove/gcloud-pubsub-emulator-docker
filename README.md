@@ -2,7 +2,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/adilsoncarvalho/gcloud-pubsub-emulator.svg)]()
 [![Docker Build Status](https://img.shields.io/docker/build/adilsoncarvalho/gcloud-pubsub-emulator.svg)]()
-[![Docker Automated buil](https://img.shields.io/docker/automated/adilsoncarvalho/gcloud-pubsub-emulator.svg)]()
+[![Docker Automated build](https://img.shields.io/docker/automated/adilsoncarvalho/gcloud-pubsub-emulator.svg)]()
 
 This is the Docker image for the [Google Cloud PubSub Emulator](https://cloud.google.com/sdk/gcloud/reference/beta/emulators/pubsub/)
 
