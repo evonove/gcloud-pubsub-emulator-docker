@@ -1,6 +1,6 @@
 FROM google/cloud-sdk:342.0.0-alpine
 
-LABEL maintainer "Claudio Cilione <claudio.cilione@evonove.it>"
+LABEL maintainer "Evonove <dev@evonove.it>"
 
 RUN apk --update add openjdk9-jre
 RUN gcloud components install --quiet beta pubsub-emulator
